@@ -1,7 +1,2 @@
 # Iteratively Detecting Collaborative Scanner Fingerprints
-This repository contains the implementation of the algorithm used in my bachelor thesis; Iteratively Detecting Collaborative Scanner Fingerprints.
-
-## Research Project CSE3000 2024
-The Thesis is Submitted to EEMCS Faculty Delft University of Technology, In Partial Fulfilment of the Requirements For the Bachelor of Computer Science and Engineering
-
-[Link to Research Project CSE3000 repository](https://github.com/TU-Delft-CSE/Research-Project)
+This project hosts the code used for my experiments during the [CSE3000 Research Project](https://github.com/TU-Delft-CSE/Research-Project) course are [TU Delft](https://github.com/TU-Delft-CSE), in Q4 23/24.
